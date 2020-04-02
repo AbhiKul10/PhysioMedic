@@ -1,0 +1,518 @@
+[
+    {
+        "name": "Orbicularis oculi",
+        "id": 0,
+        "Action": "Closes eye (squint) lowers eyebrows",
+        "Origin": "Frontal bone and maxilla",
+        "site": "https://en.wikipedia.org/wiki/Orbicularis_oculi_muscle",
+        "Insertion": "Eyelid"
+        
+    },
+
+    {
+        "name": "Orbicularis oris",
+        "id": 1,
+        "Action": "Closes lips(purses,protrudes)",
+        "Origin": "Maxilla and mandible",
+        "site": "https://en.wikipedia.org/wiki/Orbicularis_oris_muscle",
+        "Insertion": "Skin and muscle around mouth"
+    },
+
+    {
+        "name": "Zygomaticus major",
+        "id": 2,
+        "Action": "Raises corners of mouth (smile)",
+        "site": "https://en.wikipedia.org/wiki/Zygomaticus_major_muscle",
+        "Origin": "Zygomatic bone",
+        "Insertion": "Skin and muscle at corner of mouth"
+    },
+
+    {
+        "name": "Frontalis",
+        "id": 3,
+        "Action": "Raise eyebrows",
+        "Origin": "Epicranial aponeurosis",
+        "site": "https://en.wikipedia.org/wiki/Frontalis_muscle",
+        "Insertion": "Skin of eyebrows"
+    },
+    
+    {
+           "name": "Masseter",
+           "id": 4,
+           "Action": "Elevates mandible (as in closing mouth while chewing)",
+           "site": "https://en.wikipedia.org/wiki/Masseter_muscle",
+           "Origin": "Zygomatic arch and bone",
+           "Insertion": "Mandible ramus and angle"
+       },
+       
+       {
+           "name": "Temporalis",
+           "id": 5,
+           "Action": "Elevates mandible",
+           "site": "https://en.wikipedia.org/wiki/Temporalis_muscle",
+           "Origin": "Temporal, frontal, parietal bones",
+           "Insertion": "Coronoid process of mandible"
+       },
+       
+       {
+           "name": "Platysma",
+           "id": 6,
+           "Action": "Pulls lower lip down (as in frowning) Depressed mandible (opening mputh as when chewing or surprised)",
+           "site": "https://en.wikipedia.org/wiki/Platysma_muscle",
+           "Origin": "Pectoralis muscle",
+           "Insertion": "Mandible,skin of lower face"
+       },
+       
+       {
+           "name": "Sternocleidomastoid",
+           "id": 7,
+           "Action": "Both sides: flexes neck(as in looking down). One side: cocks head",
+           "site": "https://en.wikipedia.org/wiki/Sternocleidomastoid_muscle",
+           "Origin": "Manubrium, clavicle",
+           "Insertion": "Mastoid process of temporal bone"
+       },
+       
+       {
+           "name": "Splenius capitis",
+           "id": 8,
+           "Action": "Both sides: extends neck (as in looking up) One side: cocks head",
+           "site": "https://en.wikipedia.org/wiki/Splenius_capitis_muscle",
+           "Origin": "C7 to T3 (variable)",
+           "Insertion": "Nuchal line and mastoid process"
+       },
+       
+       {
+           "name": "Deltoid (anterior)",
+           "id": 9,
+           "Action": "Flexion and medial rotation of humerus at shoulder",
+           "site": "https://en.wikipedia.org/wiki/Deltoid_muscle",
+           "Origin": "Clavicle",
+           "Insertion": "Deltoid tuberosity of humerus"
+       },
+       
+       {
+           "name": "Deltoid (middle)",
+           "id": 10,
+           "Action": "Abducts humerus at shoulder (as in upwards flap)",
+           "site": "https://en.wikipedia.org/wiki/Deltoid_muscle",
+           "Origin": "Acromion",
+           "Insertion": "Deltoid tuberosity of humerus"
+       },
+       
+       {
+           "name": "Deltoid (posterior)",
+           "id": 11,
+           "Action": "Extension and lateral rotation of humerus at shoulder",
+           "site": "https://en.wikipedia.org/wiki/Deltoid_muscle",
+           "Origin": "SCapular spine",
+           "Insertion": "Deltoid tuberosity of humerus"
+       },
+       
+       {
+           "name": "Pectoralis major",
+           "id": 12,
+           "Action": "Flexion, adduction, medial rotation of humerus at shoulder (as in overhead fist raise, or bench press motion)",
+           "site": "https://en.wikipedia.org/wiki/Pectoralis_major",
+           "Origin": "Sternum to rib 7 Medial half of clavicle",
+           "Insertion": "Intertubercular groove of humerus"
+       },
+       
+       {
+           "name": "Latissimus dorsi",
+           "id": 13,
+           "Action": "Extension, adduction, medially rotationhumerus at shoulder (gym lat pull-downs)",
+            "site": "https://en.wikipedia.org/wiki/Latissimus_dorsi_muscle",
+           "Origin": "T7 to L5, ribs 10 to 12, iliac crest",
+           "Insertion": "Intertubercular goove of humerus (muscle travels under axillary region)"
+       },
+       
+       {
+           "name": "Subscapularis",
+           "id": 14,
+           "Action": "Medially rotates humerus at shoulder. Stabilizes shoulder.",
+            "site": "https://en.wikipedia.org/wiki/Subscapularis_muscle",
+           "Origin": "Subscapular fossa of scapula",
+           "Insertion": "Lesser tubercle of anterior humerus"
+       },
+         
+       {
+           "name": "Supraspinatus",
+           "id": 15,
+           "Action": "Abducts arm at shoulder. Stabilizes shoulder .",
+           "site": "https://en.wikipedia.org/wiki/Supraspinatus_muscle",
+           "Origin": "Supraspinous fossa of scapula",
+           "Insertion": "Greater tubercle of top of humerus"
+       },
+               
+       {
+           "name": "Infraspinatus",
+           "id": 16,
+           "Action": "Laterally rotates humerus at shoulder. Stabilizes shoulder.",
+            "site": "https://en.wikipedia.org/wiki/Infraspinatus_muscle",
+           "Origin": "Infraspinous fossa of scapula",
+           "Insertion": "Middle part of greater tubercle of posterior humerus"
+       },
+          
+       {
+           "name": "Teres minor",
+           "id": 17,
+           "Action": "Laterally rotates humerus at shoulder. Stabilizes shoulder.",
+            "site": "https://en.wikipedia.org/wiki/Teres_minor_muscle",
+           "Origin": "Lateral border of scapula",
+           "Insertion": "Inferior part of greater tubercle of posterior humerus"
+       },
+
+       {
+           "name": "Levator scapulae",
+           "id": 18,
+           "Action": "Elevates and retracts scapula (as in bringing shoulder up and in toward ear)",
+            "site": "https://en.wikipedia.org/wiki/Levator_scapulae_muscle",
+           "Origin": "C1 to C4",
+           "Insertion": "Medial border of scapula, superior to spine"
+       },
+          
+       {
+           "name": "Rhomboideus major",
+           "id": 19,
+           "Action": "Retracts scapula (as in pulling the shoulders back)",
+           "site": "https://en.wikipedia.org/wiki/Rhomboid_major_muscle",
+           "Origin": "T2 to T5",
+           "Insertion": "Medial border of scapula"
+       },
+          
+      {
+          "name": "Trapezius (upper)",
+          "id": 20,
+          "Action": "Elevates scapula (as in shrugging)",
+           "site": "https://en.wikipedia.org/wiki/Trapezius",
+          "Origin": "Occipital bone, C1-C7",
+          "Insertion": "Lateral 1/3 clavicle and acromion process"
+      },
+         
+      {
+          "name": "Trapezius (middle)",
+          "id": 21,
+          "Action": "Retracts scapula (as in pulling shoulders back)",
+          "site": "https://en.wikipedia.org/wiki/Trapezius",
+          "Origin": "T1 to T5",
+          "Insertion": "Spine of scapula"
+      },
+         
+      {
+          "name": "Trapezius (lower)",
+          "id": 22,
+          "Action": "Retracts and depresses scapula (as in pulling shoulders back and down)",
+           "site": "https://en.wikipedia.org/wiki/Trapezius",
+          "Origin": "T6 to T12",
+          "Insertion": "Medial 1/3 of scapula spine"
+      },
+         
+      {
+          "name": "Brachialis",
+          "id": 23,
+          "Action": "Flexes elbow (as in bringing a spoon to your mouth)",
+          "site": "https://en.wikipedia.org/wiki/Brachialis_muscle",
+          "Origin": "Anterior distal shaft of humerus",
+          "Insertion": "Coronoid process of ulna"
+      },
+         
+      {
+          "name": "Pronator teres",
+          "id": 24,
+          "Action": "Pronates forearm at elbow (as in turning a doorknob laterally)",
+          "Origin": "Medial epicondyle of humerus, coronoid process of ulna",
+          "site": "https://en.wikipedia.org/wiki/Pronator_teres_muscle",
+          "Insertion": "Lateral midshaft of radius"
+      },
+      
+      {
+          "name": "Biceps brachii",
+          "id": 25,
+          "Action": "Flexes elbow, supinates forearm (as in scooping up water in your hand to drink)",
+          "Origin": "Long head: supraglenoid tubercle of scapula Short head: coracoid process of scapula",
+          "site": "https://en.wikipedia.org/wiki/Biceps",
+          "Insertion": "Radial tuberosity"
+      },
+         
+      {
+          "name": "Triceps brachii",
+          "id": 26,
+          "Action": "Extends forearm at elbow (as in lowering a spoon back to the table)",
+          "Origin": "Long head: infraglenoid tubercle of scapula Lateral head: posterior proximal shaft of humerus Medial head: posterior distal shaft of humerus",
+          "site": "https://en.wikipedia.org/wiki/Triceps",
+          "Insertion": "Olecranon of ulna"
+      },
+      
+      {
+          "name": "Buccinator",
+          "id": 27,
+          "Action": "Compress cheeks(whistling, sucking)",
+          "Origin": "Mandible and maxilla molar regions",
+           "site": "https://en.wikipedia.org/wiki/Buccinator_muscle",
+          "Insertion": "Orbicularis"
+      },
+      
+      {
+          "name": "Serratus anterior",
+          "id": 28,
+          "Action": "Protracts scapula (which pushes the arm forward in front of the scapula, as in punching or hugging",
+          "Origin": "Ribs 1 to 9",
+          "site": "https://en.wikipedia.org/wiki/Serratus_anterior_muscle",
+          "Insertion": "Anterior surface of vertebral border of scapula"
+      },
+      
+      {
+          "name": "Extensor carpi radialis brevis",
+          "id": 29,
+          "Action": "Extends wrist, radially deviates wrist (aBduction",
+          "Origin": "Lateral epicondyle of humerus",
+           "site": "https://en.wikipedia.org/wiki/Extensor_carpi_radialis_brevis_muscle",
+          "Insertion": "Metacarpal III (base)"
+      },
+      
+      {
+          "name": "Flexor carpi radialis",
+          "id": 30,
+          "Action": "Flexes wrist, radially deviates wrist (aBduction)",
+          "Origin": "Medial epicondyle of humerus",
+           "site": "https://en.wikipedia.org/wiki/Flexor_carpi_radialis_muscle",
+          "Insertion": "Metacarpals II and III (base)"
+      },
+      
+      {
+          "name": "Extensor carpi ulnaris",
+          "id": 31,
+          "Action": "Extends wrist, ulnar deviates wrist (aDduction)",
+          "Origin": "Lateral epicondyle of humerus, posterior shaft of ulna",
+          "site": "https://en.wikipedia.org/wiki/Extensor_carpi_ulnaris_muscle",
+          "Insertion": "Metacarpal V (base)"
+      },
+      
+      {
+            "name": "Flexor carpi ulnaris",
+            "id": 32,
+            "Action": "Flexes wrist, ulnar deviates wrist (aDduction)",
+            "Origin": "Medial epicondyle of humerus",
+            "site": "https://en.wikipedia.org/wiki/Flexor_carpi_ulnaris_muscle",
+            "Insertion": "Pisiform, hamate, metacarpal V (base)"
+        },
+      
+      {
+          "name": "Extensor digitorum",
+          "id": 33,
+          "Action": "Extends digits of hand, and wrist",
+          "Origin": "Lateral epicondyle of humerus",
+           "site": "https://en.wikipedia.org/wiki/Extensor_digitorum_muscle",
+          "Insertion": "Dorsal side of digits 2 to 5"
+      },
+      
+      {
+          "name": "Flexor digitorum",
+          "id": 34,
+          "Action": "Flexes digits of the hand, and wrist",
+          "Origin": "Medial epicondyle of humerus",
+          "site": "https://en.wikipedia.org/wiki/Flexor_digitorum_profundus_muscle",
+          "Insertion": "Anterior side of digits 2 to 5"
+      },
+      
+      {
+          "name": "Spinalis thoracis",
+          "id": 35,
+          "Action": "One side: lateral flexion of vertebral column. Both sides: extension and hyperextension of vertebral column",
+          "Origin": "T11 to L2",
+          "site": "https://en.wikipedia.org/wiki/Spinalis",
+          "Insertion": "T3 to T7"
+      },
+      
+      {
+          "name": "Rectus abdominis",
+          "id": 36,
+          "Action": "Compresses abdomen, flexes vertebral column",
+          "Origin": "Pubis crest and symphysis",
+          "site": "https://en.wikipedia.org/wiki/Rectus_abdominis_muscle",
+          "Insertion": "Xiphoid process, costal cartilage 5 to 7"
+      },
+      
+      {
+          "name": "External intercostals",
+          "id": 37,
+          "Action": "Pulls ribs up toward origin, elevates ribcage to cause inspiration",
+          "Origin": "Inferior border of rib above",
+          "site": "https://en.wikipedia.org/wiki/External_intercostal_muscles",
+          "Insertion": "Superior borders of rib below"
+      },
+      
+      {
+          "name": "Diaphragm",
+          "id": 38,
+          "Action": "Diaphragm drops down to enlarge thoracic cavity, causing inspiration",
+          "Origin": "Xiphoid process, ribs 10 to 12, costal cartilage 5 to 9, lumbar vertebrae 1-5",
+          "site": "https://en.wikipedia.org/wiki/Thoracic_diaphragm",
+          "Insertion": "Central tendon (in center of the disc shaped diaphragm)"
+      },
+      
+      {
+          "name": "Pectineus",
+          "id": 39,
+          "Action": "Flexes hip, adducts leg",
+          "Origin": "Pubis and pubic ramus",
+          "site": "https://en.wikipedia.org/wiki/Pectineus_muscle",
+          "Insertion": "From lesser trochanter to superior part of linea aspera of femur"
+      },
+      
+      {
+          "name": "Adductor longus",
+          "id": 40,
+          "Action": "Flexes hip, adducts leg",
+          "Origin": "Superior ramus of pubis",
+          "site": "https://en.wikipedia.org/wiki/Adductor_longus_muscle",
+          "Insertion": "Linea aspera (shorter insertion than adductor magnus)"
+      },
+      
+      {
+          "name": "Adductor magnus",
+          "id": 41,
+          "Action": "Extends hip, adducts leg",
+          "Origin": "Inferior ischial ramus",
+          "site": "https://en.wikipedia.org/wiki/Adductor_magnus_muscle",
+          "Insertion": "Linea aspera of femur"
+      },
+      
+      {
+          "name": "Gluteus maximus",
+          "id": 42,
+          "Action": "Extends hip (as in pushing down while climbing a stair), rotates leg laterally",
+          "Origin": "Ilium, sacrum, coccyx",
+          "site": "https://en.wikipedia.org/wiki/Gluteus_maximus",
+          "Insertion": "Gluteal tuberosity of femur"
+      },
+      
+      {
+          "name": "Gracilis",
+          "id": 43,
+          "Action": "Adducts leg at hip, flexes knee",
+          "Origin": "Pubis",
+          "site": "https://en.wikipedia.org/wiki/Gracilis_muscle",
+          "Insertion": "Medial aspect of proximal tibia"
+      },
+      
+      {
+          "name": "Tensor fasciae latae",
+          "id": 44,
+          "Action": "(tenses or stabilizes hip and knee joints), abducts leg at hip",
+          "Origin": "Iliac crest near anterior superior spine",
+          "site": "https://en.wikipedia.org/wiki/Tensor_fasciae_latae_muscle",
+          "Insertion": "Lateral condyle of tibia"
+      },
+      
+      {
+          "name": "Psoas major",
+          "id": 45,
+          "Action": "Flexes hip (as in lifting leg to place on stair)",
+          "Origin": "Vertebral bodies T12 to L5",
+          "site": "https://en.wikipedia.org/wiki/Psoas_major_muscle",
+          "Insertion": "Lesser trochanter of femur"
+      },
+      
+      {
+          "name": "Sartorius",
+          "id": 46,
+          "Action": "Flexes hip and flexes knee, laterally rotates thigh (into cross legged position)",
+          "Origin": "Anterior superior iliac spine",
+          "site": "https://en.wikipedia.org/wiki/Sartorius_muscle",
+          "Insertion": "Medial aspect of tibial tuberosity"
+      },
+      
+      {
+          "name": "Biceps femoris",
+          "id": 47,
+          "Action": "Extends hip, flexes knee, laterally rotates leg",
+          "Origin": "Long head: Ischial tuberosity Short head: Posterior mid-shaft of femur",
+          "site": "https://en.wikipedia.org/wiki/Biceps_femoris_muscle",
+          "Insertion": "Head of fibula"
+      },
+      
+      {
+          "name": "Semimembranosus",
+          "id": 48,
+          "Action": "Extends hip, flexes knee",
+          "Origin": "Ischial tuberosity",
+          "site": "https://en.wikipedia.org/wiki/Semimembranosus_muscle",
+          "Insertion": "Posterior medial condyle of tibia"
+      },
+      
+      {
+          "name": "Semitendinosus",
+          "id": 49,
+          "Action": "Extends hip, flexes knee",
+          "Origin": "Ischial tuberosity",
+          "site": "https://en.wikipedia.org/wiki/Semitendinosus_muscle",
+          "Insertion": "Medial surface of proximal tibia (slightly anterior to insertion of semimembranosus)"
+      },
+      
+      {
+          "name": "Vastus lateralis",
+          "id": 50,
+          "Action": "Extends knee",
+          "Origin": "Greater trochanter, lateral lip of linea aspera (wraps around to anterior surface)",
+          "site": "https://en.wikipedia.org/wiki/Vastus_lateralis_muscle",
+          "Insertion": "Tibial tuberosity and patella"
+      },
+      
+      {
+          "name": "Vastus medialis",
+          "id": 51,
+          "Action": "Extends knee",
+          "Origin": "Intertrochanteric line, medial lip of linea aspera (wraps around to anterior surface)",
+          "site": "https://en.wikipedia.org/wiki/Vastus_medialis",
+          "Insertion": "Tibial tuberosity and patella"
+      },
+      
+      {
+          "name": "Vastus intermedius",
+          "id": 52,
+          "Action": "Extends knee",
+          "Origin": "Anterior shaft of femur",
+          "site": "https://en.wikipedia.org/wiki/Vastus_intermedius_muscle",
+          "Insertion": "Tibial tuberosity and patella"
+      },
+      
+      {
+          "name": "Rectus femoris",
+          "id": 53,
+          "Action": "Extends knee, flexes hip (kicking a ball)",
+          "Origin": "Anterior inferior iliac spine of coxal bone",
+          "site": "https://en.wikipedia.org/wiki/Rectus_femoris_muscle",
+          "Insertion": "Tibial tuberosity and patella"
+      },
+      
+      {
+          "name": "Soleus",
+          "id": 54,
+          "Action": "Plantar flexion at ankle",
+          "Origin": "Proximal third of tibia and fibula",
+          "site": "https://en.wikipedia.org/wiki/Soleus_muscle",
+          "Insertion": "Calcaneus"
+      },
+      
+      {
+          "name": "Gastrocnemius",
+          "id": 55,
+          "Action": "Plantar flexion at ankle, flexes knee",
+          "Origin": "Medial and lateral epicondyles of femur",
+          "site": "https://en.wikipedia.org/wiki/Gastrocnemius_muscle",
+          "Insertion": "Calcaneus"
+      },
+      
+      {
+          "name": "Tibialis anterior",
+          "id": 56,
+          "Action": "Dorsiflexion and inversion at ankle",
+          "Origin": "Lateral condyle and antero-lateral tibia",
+          "site": "https://en.wikipedia.org/wiki/Tibialis_anterior_muscle",
+          "Insertion": "Medial cuneiform, under metatarsal 1"
+      },
+    
+   
+           
+]
